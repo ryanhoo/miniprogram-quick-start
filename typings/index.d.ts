@@ -1,0 +1,3 @@
+interface MiniApp {
+  globalData: {};
+}
